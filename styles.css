@@ -1,0 +1,16 @@
+.btn{
+    display: flex;
+    margin: auto;
+    padding: 30px;
+    justify-content: center; 
+    background-color: green;
+    width: 100px;
+    height: 25px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto ;
+    background-color: #2196F3;
+}
+
